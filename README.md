@@ -502,17 +502,38 @@ YAML         █░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 🏆 Certifications & Achievements
+### 🧠 Neural Network Architecture Visualization
 
-| Achievement | Year | Issuer |
-|-------------|------|--------|
-| 🥇 **TensorFlow Developer Certificate** | 2024 | Google |
-| 🥇 **AWS Certified Solutions Architect** | 2024 | Amazon |
-| 🥇 **Microsoft Azure AI Engineer** | 2023 | Microsoft |
-| 🏆 **Winner - National AI Hackathon** | 2023 | Tech Summit |
-| 🏆 **Google Cloud Professional ML Engineer** | 2023 | Google |
-| ⭐ **GitHub Arctic Code Vault Contributor** | 2023 | GitHub |
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
+<br/><strong>Deep Learning Models</strong>
+<br/>Building intelligent systems
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200">
+<br/><strong>Neural Networks</strong>
+<br/>Complex architectures
+</td>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-b5f0-881478f01a58.gif" width="200">
+<br/><strong>AI Processing</strong>
+<br/>Real-time inference
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+  <br/>
+  <strong>🔥 Training Models • Optimizing Performance • Deploying Intelligence 🔥</strong>
 </div>
 
 <br/>
